@@ -14452,6 +14452,15 @@ dl {
   flex-grow: 1; 
 }
 
+.home-content-wrapper{
+  background: #F0F3F8;
+  padding: 2.75rem 2.25rem;
+  width: 132%;
+  -webkit-box-flex: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1; 
+}
+
 .custom-nav-link{
   padding: 10px 25px;
   padding-top: 15px;
